@@ -1,7 +1,7 @@
 public class halo {
     public static void main(String[] args) {
       
-        System.out.println("Hello, new new new");
+        System.out.println("Hello, new34");
     }
     
 }
